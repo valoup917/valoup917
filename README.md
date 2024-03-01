@@ -1,16 +1,57 @@
-### Hi there 👋
+<h1><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHdxNnk2YXdqM2N3eGV2bmp3eDNzOWF5NmZjOWM0dG1hMWJtMmZ1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BPJmthQ3YRwD6QqcVD/giphy.gif" width="140"/> Bienvenu à vous !</h1>
 
-<!--
-**valoup917/valoup917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Bienvenu sur mon github ! </br> Moi c'est valentin, développeur fullstack de <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Paris, France</b>en master I à Epitech Paris et en CDI à FWA
+<h3>Mes technos</h3>
+<p>
+  <img alt="bulma" src="https://img.shields.io/badge/bulma-00D0B1?style=flat-square&logo=bulma&logoColor=white" />
+  <img alt="tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+  <img alt="c" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" />
+  <img alt="flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white" />
+  <img alt="mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="directus" src="https://img.shields.io/badge/directus-%2364f.svg?style=flat-square&logo=directus&logoColor=white" />
+  <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" />
+  <img alt="scaleway" src="https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=flat-square&logo=scaleway&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="Microsoft server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="aws" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="c#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white" />
+  <img alt="django" src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white" />
+  <img alt="mariadb" src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+  <img alt="vue js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D" />
+  <img alt="express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" />
+  <img alt="solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white" />
+  <img alt="js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
+  <img alt="flask" src="https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white" />
+  <img alt="jwt" src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens" />
+  <img alt="threejs" src="https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white" />
+  <img alt="shell" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img alt="" src="" />
+  <img alt="" src="" />
+  <img alt="" src="" />
+  <img alt="" src="" />
+</p>
+<h3>Où me trouver ?</h3>
+<p>
+<a href="https://github.com/valoup917" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<a href="https://www.instagram.com/_valoup/" target="_blank"><img alt="Insta" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/valentin-fouillet" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------------
+<p align="center">Merci pour votre temps !</p>
