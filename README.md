@@ -1,7 +1,12 @@
 <h1><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHdxNnk2YXdqM2N3eGV2bmp3eDNzOWF5NmZjOWM0dG1hMWJtMmZ1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BPJmthQ3YRwD6QqcVD/giphy.gif" width="140"/> Bienvenu à vous !</h1>
+<br>
 
-<p>Bienvenu sur mon github ! </br> Moi c'est valentin, développeur fullstack de <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Paris, France</b>en master I à Epitech Paris et en CDI à FWA
-<h3>Mes technos</h3>
+<p>Bienvenu sur mon github ! <br> Moi c'est valentin, développeur fullstack de <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Paris, France</b>en master I à Epitech Paris et en CDI à FWA
+<br>
+<br>
+
+<h2>🈵 &nbsp; Mes technos</h2>
+<br>
 <p>
   <img alt="bulma" src="https://img.shields.io/badge/bulma-00D0B1?style=flat-square&logo=bulma&logoColor=white" />
   <img alt="tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
@@ -46,7 +51,40 @@
   <img alt="" src="" />
   <img alt="" src="" />
 </p>
-<h3>Où me trouver ?</h3>
+
+---
+
+<a href="https://github.com/valoup917/eco_conception"> <h2>💻 &nbsp; Quelques projets...</h2> </a>
+
+<dl>
+  <h3>♻️ Eco Conception</h3>
+  <dd>
+    <dl>
+      <p>
+<a href="https://github.com/valoup917/eco_conception">Ce projet</a> est un site web vitrine éco-responsable pour un restaurant étoilé vert Michelin.
+
+Il met en avant l'importance de l'éco-responsabilité dans le développement web et l'hébergement des sites web, en adoptant des pratiques visant à réduire la consommation d'énergie et les émissions de gaz à effet de serre.
+
+Les bonnes pratiques implémentées incluent l'optimisation des performances, la réduction de la taille des fichiers et l'utilisation de technologies légères comme React et Node.js. L'impact écologique du site est mesuré avec des outils sur mesure pour garantir des performances optimales tout en minimisant l'empreinte environnementale.
+      </p>
+    </dl>
+  </dd>
+</dl>
+
+<h3>🔔 PWA</h3>
+
+<h3>👨🏼‍🏫 Api gateway</h3>
+
+<h3>📰 Le monde 3.0</h3>
+
+<h3>🌐 Area</h3>
+
+<h3>🗳️ Vote.gouv</h3>
+
+---
+
+<h2>🔍 &nbsp; Où me trouver ?</h2>
+<br>
 <p>
 <a href="https://github.com/valoup917" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.instagram.com/_valoup/" target="_blank"><img alt="Insta" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a> 
