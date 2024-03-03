@@ -73,7 +73,20 @@ Les bonnes pratiques implémentées incluent l'optimisation des performances, la
 
 <h3>🔔 PWA</h3>
 
-<h3>👨🏼‍🏫 Api gateway</h3>
+<dl>
+  <h3>👨🏼‍🏫 Api gateway</h3>
+  <dd>
+    <dl>
+      <p>
+  À Epitech, nous avons l'opportunité de créer et de gérer des cours sur des sujets que l'on maitrise bien pour les autres étudiants. Alors avec ma collègue Silya, nous avons choisi de créer un <a href="https://github.com/valoup917/API_gateway">workshop sur les API gateway</a> et dans ce cours, nous introduisons le développement d'une gateway en javascript from scratch sans aucun framework.
+
+Ce workshop est basé sur une architecture en microservice très basique. Nous montons deux serveurs backend qui représentent deux micro-services différents et notre gateway qui va requêter nos micros services.
+
+Nous avons aussi créé un load balancer en js directement integré à la gateway sur l'algorithme Round-robin.
+      </p>
+    </dl>
+  </dd>
+</dl>
 
 <h3>📰 Le monde 3.0</h3>
 
