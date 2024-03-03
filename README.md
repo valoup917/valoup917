@@ -68,6 +68,7 @@
 </p>
 <br>
 <br>
+<br>
 
 
 <a href="https://github.com/valoup917/eco_conception"> <h2>💻 &nbsp; Quelques projets...</h2> </a>
@@ -83,6 +84,7 @@ Il met en avant l'importance de l'éco-responsabilité dans le développement we
 
 Les bonnes pratiques implémentées incluent l'optimisation des performances, la réduction de la taille des fichiers et l'utilisation de technologies légères comme React et Node.js. L'impact écologique du site est mesuré avec des outils sur mesure pour garantir des performances optimales tout en minimisant l'empreinte environnementale.
       </p>
+<br>
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
     <img alt="js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
     <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -108,6 +110,7 @@ Ce workshop est basé sur une architecture en microservice très basique. Nous m
 
 Nous avons aussi créé un load balancer en js directement integré à la gateway sur l'algorithme Round-robin.
       </p>
+<br>
     <img alt="js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
     </dl>
@@ -127,6 +130,7 @@ Notre projet, vise à contrer la censure dans les médias en proposant une plate
 
 Durant ce projet j'ai eu la chance de me positionner en tant que lead développeur pour m'occuper à la fois de la partie front et de la partie back pour les liaisons avec la blockchain.
      </p>
+<br>
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
@@ -150,6 +154,7 @@ Le but du projet était de créer une web application et une application mobile 
 
 Nous sommes parti sur une achitecture en microservice mutli technologique afin de differsifié nos competences. Je me suis occupé de créer l'api gateway en Vanilla JS qui joint tout nos microservices, de toute la partie mobile en flutter, du désign au développement et de la partie triger des notifications et des services en python.
      </p>
+<br>
     <img alt="github actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
     <img alt="flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
     <img alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -162,10 +167,27 @@ Nous sommes parti sur une achitecture en microservice mutli technologique afin d
   </dd>
 </dl>
 
-<!--
 ---
-<h3>🗳️ Vote.gouv</h3>
--->
+
+<dl>
+  <h3>🗳️ Vote.gouv</h3>
+  <dd>
+    <dl>
+      <p>
+Notre équipe, engagée dans la promotion d'un avenir décentralisé, a développé une application mobile pour révolutionner le processus électoral en France: <a href="https://github.com/valoup917/Le-Monde3.0"> vote.gouv</a>. Utilisant Flutter et France Connect pour l'identification sécurisée, notre application permet aux citoyens de consulter les programmes des candidats, de voter de manière anonyme et de vérifier les résultats, le tout grâce à l'utilisation de la blockchain pour garantir la transparence et la sécurité des élections.
+
+L'authentification est renforcée par une vérification biométrique et l'intégration de MetaMask pour interagir avec les smart contracts. Notre solution, entièrement décentralisée, protège la confidentialité des utilisateurs et assure l'intégrité du processus électoral. Consultez notre vidéo explicative pour une meilleure compréhension du fonctionnement de l'application.
+     </p>
+<br>
+    <img alt="flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
+    <img alt="solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
+    </dl>
+  </dd>
+</dl>
+
+---
+
 <br>
 <br>
 
