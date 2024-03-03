@@ -110,10 +110,28 @@ Nous avons aussi créé un load balancer en js directement integré à la gatewa
   </dd>
 </dl>
 
-<!--
 ---
-<h3>📰 Le monde 3.0</h3>
--->
+
+<dl>
+  <h3>📰 Le monde 3.0</h3>
+  <dd>
+    <dl>
+      <p>
+ <a href="https://github.com/valoup917/Le-Monde3.0"> Le monde 3.0 </a> était un hackaton organisé par starton et Epitech qui à duré 48h avec un sujet qui tournait autour de l'information et de la décentralisation.
+
+Notre projet, vise à contrer la censure dans les médias en proposant une plateforme décentralisée permettant aux journalistes de publier des articles sans craindre la censure. Nous utilisons IPFS pour stocker les articles de manière distribuée, et MetaMask pour l'authentification via la blockchain Ethereum. Notre solution est entièrement décentralisée, ne collectant aucune donnée utilisateur.
+
+Durant ce projet j'ai eu la chance de me positionner en tant que lead développeur pour m'occuper à la fois de la partie front et de la partie back pour les liaisons avec la blockchain.
+     </p>
+    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
+    <img alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img alt="solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
+    <img alt="js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    </dl>
+  </dd>
+</dl>
 
 ---
 
@@ -128,14 +146,14 @@ Le but du projet était de créer une web application et une application mobile 
 
 Nous sommes parti sur une achitecture en microservice mutli technologique afin de differsifié nos competences. Je me suis occupé de créer l'api gateway en Vanilla JS qui joint tout nos microservices, de toute la partie mobile en flutter, du désign au développement et de la partie triger des notifications et des services en python.
      </p>
-    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
     <img alt="github actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
     <img alt="flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
     <img alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-    <img alt="js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+    <img alt="js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
     </dl>
   </dd>
 </dl>
