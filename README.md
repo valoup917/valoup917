@@ -10,7 +10,11 @@
 <br>
 
 <div align="center">
-  <p>Bienvenu sur mon github ! <br> Moi c'est valentin, développeur fullstack de <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Paris, France</b>en master I à     Epitech Paris et en CDI à FWA
+  <p>Bienvenu sur mon github ! <br> Moi c'est valentin, développeur fullstack de <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Paris, France</b>en master I à     Epitech Paris et en CDI à FWA où j'ai l'occasion de mettre mes competences dans le web
+  </p>
+  <img alt="vue js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
+  <img alt="c#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 </div>
   
 <br>
