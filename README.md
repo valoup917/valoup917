@@ -67,6 +67,9 @@ Il met en avant l'importance de l'éco-responsabilité dans le développement we
 
 Les bonnes pratiques implémentées incluent l'optimisation des performances, la réduction de la taille des fichiers et l'utilisation de technologies légères comme React et Node.js. L'impact écologique du site est mesuré avec des outils sur mesure pour garantir des performances optimales tout en minimisant l'empreinte environnementale.
       </p>
+    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
+    <img alt="js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
     </dl>
   </dd>
 </dl>
@@ -84,13 +87,36 @@ Ce workshop est basé sur une architecture en microservice très basique. Nous m
 
 Nous avons aussi créé un load balancer en js directement integré à la gateway sur l'algorithme Round-robin.
       </p>
+    <img alt="js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
     </dl>
   </dd>
 </dl>
 
 <h3>📰 Le monde 3.0</h3>
 
-<h3>🌐 Area</h3>
+<dl>
+  <h3>🌐 Area</h3>
+  <dd>
+    <dl>
+      <p>
+ <a href="https://github.com/valoup917/area-valentin.fouillet"> Area </a> était un projet Epitech de 3 ème année à mener en groupe de 5 personnes dans lequel je me suis placé en tant que lead dev fullstack.
+
+Le but du projet était de créer une web application et une application mobile qui permetais de lier plusieurs services tel que google, instagram, spotify etc afin de créer des actions et réaction de type: "si je recois un mail d'illyas chihi -> change la musique sur spotify".
+
+Nous sommes parti sur une achitecture en microservice mutli technologique afin de differsifié nos competences. Je me suis occupé de créer l'api gateway en Vanilla JS qui joint tout nos microservices, de toute la partie mobile en flutter, du désign au développement et de la partie triger des notifications et des services en python.
+     </p>
+    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
+    <img alt="github actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+    <img alt="flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+    <img alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <img alt="js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+    </dl>
+  </dd>
+</dl>
 
 <h3>🗳️ Vote.gouv</h3>
 
