@@ -1,7 +1,18 @@
-<h1><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHdxNnk2YXdqM2N3eGV2bmp3eDNzOWF5NmZjOWM0dG1hMWJtMmZ1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BPJmthQ3YRwD6QqcVD/giphy.gif" width="140"/> Bienvenu à vous !</h1>
+<div>
+  <h1 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHdxNnk2YXdqM2N3eGV2bmp3eDNzOWF5NmZjOWM0dG1hMWJtMmZ1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BPJmthQ3YRwD6QqcVD/giphy.gif" width="140" align="left"/> 
+    Bienvenu à vous !
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHdxNnk2YXdqM2N3eGV2bmp3eDNzOWF5NmZjOWM0dG1hMWJtMmZ1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BPJmthQ3YRwD6QqcVD/giphy.gif" width="140" align="right"/> 
+  </h1>   
+</div>
+
+<br>
 <br>
 
-<p>Bienvenu sur mon github ! <br> Moi c'est valentin, développeur fullstack de <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Paris, France</b>en master I à Epitech Paris et en CDI à FWA
+<div align="center">
+  <p>Bienvenu sur mon github ! <br> Moi c'est valentin, développeur fullstack de <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Paris, France</b>en master I à     Epitech Paris et en CDI à FWA
+</div>
+  
 <br>
 <br>
 
@@ -51,8 +62,9 @@
   <img alt="" src="" />
   <img alt="" src="" />
 </p>
+<br>
+<br>
 
----
 
 <a href="https://github.com/valoup917/eco_conception"> <h2>💻 &nbsp; Quelques projets...</h2> </a>
 
@@ -74,7 +86,12 @@ Les bonnes pratiques implémentées incluent l'optimisation des performances, la
   </dd>
 </dl>
 
+<!--
+---
 <h3>🔔 PWA</h3>
+-->
+
+---
 
 <dl>
   <h3>👨🏼‍🏫 Api gateway</h3>
@@ -93,7 +110,12 @@ Nous avons aussi créé un load balancer en js directement integré à la gatewa
   </dd>
 </dl>
 
+<!--
+---
 <h3>📰 Le monde 3.0</h3>
+-->
+
+---
 
 <dl>
   <h3>🌐 Area</h3>
@@ -118,9 +140,12 @@ Nous sommes parti sur une achitecture en microservice mutli technologique afin d
   </dd>
 </dl>
 
-<h3>🗳️ Vote.gouv</h3>
-
+<!--
 ---
+<h3>🗳️ Vote.gouv</h3>
+-->
+<br>
+<br>
 
 <h2>🔍 &nbsp; Où me trouver ?</h2>
 <br>
