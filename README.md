@@ -92,6 +92,27 @@ Les bonnes pratiques implémentées incluent l'optimisation des performances, la
   </dd>
 </dl>
 
+---
+
+<dl>
+  <h3>🍽️ NFT à la carte</h3>
+  <dd>
+    <dl>
+ <a href="https://github.com/valoup917/nft-a-la-carte">NFT à la carte</a> est une fusion innovante entre la technologie blockchain et le monde de la gastronomie de luxe. Ce projet offre une plateforme permettant de créer, vendre, et échanger des NFTs qui immortalisent des expériences culinaires uniques dans des restaurants étoilés.
+
+Chaque ticket de caisse d'un restaurant peut être transformé en un NFT grâce à une IA, qui génère une œuvre d'art numérique représentant le chef et le plat. Ce NFT devient alors un souvenir durable et potentiellement précieux, capturant l'essence d'une expérience gastronomique inoubliable.
+
+Ce projet a été développé dans le cadre d'un sujet Epitech, visant à explorer les possibilités offertes par la blockchain XRP Ledger pour la tokenisation d'actifs réels et leur échange sécurisé sur une plateforme dédiée.
+      </p>
+<br>
+    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
+    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+    <img alt="XRP" src="https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white" />
+    <img alt="Mocha" src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown" />
+    </dl>
+  </dd>
+</dl>
+
 <!--
 ---
 <h3>🔔 PWA</h3>
