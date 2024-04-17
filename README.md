@@ -169,7 +169,7 @@ Durant ce projet j'ai eu la chance de me positionner en tant que lead développe
   <dd>
     <dl>
       <p>
- <a href="https://github.com/valoup917/area-valentin.fouillet"> Area </a> était un projet Epitech de 3 ème année à mener en groupe de 5 personnes dans lequel je me suis placé en tant que lead dev fullstack.
+ <a href="https://github.com/valoup917/Area"> Area </a> était un projet Epitech de 3 ème année à mener en groupe de 5 personnes dans lequel je me suis placé en tant que lead dev fullstack.
 
 Le but du projet était de créer une web application et une application mobile qui permetais de lier plusieurs services tel que google, instagram, spotify etc afin de créer des actions et réaction de type: "si je recois un mail d'illyas chihi -> change la musique sur spotify".
 
