@@ -99,10 +99,12 @@ Les bonnes pratiques implémentées incluent l'optimisation des performances, la
   <dd>
     <dl>
  <a href="https://github.com/valoup917/nft-a-la-carte">NFT à la carte</a> est une fusion innovante entre la technologie blockchain et le monde de la gastronomie de luxe. Ce projet offre une plateforme permettant de créer, vendre, et échanger des NFTs qui immortalisent des expériences culinaires uniques dans des restaurants étoilés.
-
+    </br>
+    </br>
 Chaque ticket de caisse d'un restaurant peut être transformé en un NFT grâce à une IA, qui génère une œuvre d'art numérique représentant le chef et le plat. Ce NFT devient alors un souvenir durable et potentiellement précieux, capturant l'essence d'une expérience gastronomique inoubliable.
-
-Ce projet a été développé dans le cadre d'un sujet Epitech, visant à explorer les possibilités offertes par la blockchain XRP Ledger pour la tokenisation d'actifs réels et leur échange sécurisé sur une plateforme dédiée.
+    </br>
+    </br>
+Ce projet a été développé dans le cadre d'un sujet Epitech en moins d'une semaine, visant à explorer les possibilités offertes par la blockchain XRP Ledger pour la tokenisation d'actifs réels et leur échange sécurisé sur une plateforme dédiée.
       </p>
 <br>
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
@@ -113,10 +115,26 @@ Ce projet a été développé dans le cadre d'un sujet Epitech, visant à explor
   </dd>
 </dl>
 
-<!--
 ---
-<h3>🔔 PWA</h3>
--->
+
+<h3></h3>
+<dl>
+  <h3>🔔 Meet your soul</h3>
+  <dd>
+    <dl>
+ <a href="https://github.com/valoup917/meet-your-soul">Meet your soul</a> est une Progressive Web Application (PWA) dédiée aux musiciens, permettant de créer des groupes en fonction de leur instrument et de leur niveau. Cette application facilite la rencontre et la collaboration entre musiciens, simplifiant ainsi la création de synergies musicales.
+    </br>
+    </br>
+Développé dans le cadre de mon cursus à Epitech en quelques jours, ce projet met en avant les avantages des PWA : rapidité, réactivité, et accessibilité hors ligne. Utilisant des technologies modernes comme les service workers pour le caching et la gestion des requêtes de données, l’application offre une performance améliorée même en conditions de réseau limité. La sécurité est également renforcée via le protocole HTTPS.
+      </p>
+<br>
+      <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
+      <img alt="Tailwind Css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+      <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+      <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    </dl>
+  </dd>
+</dl>
 
 ---
 
@@ -176,10 +194,10 @@ Le but du projet était de créer une web application et une application mobile 
 Nous sommes parti sur une achitecture en microservice mutli technologique afin de differsifié nos competences. Je me suis occupé de créer l'api gateway en Vanilla JS qui joint tout nos microservices, de toute la partie mobile en flutter, du désign au développement et de la partie triger des notifications et des services en python.
      </p>
 <br>
-    <img alt="github actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
     <img alt="flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
     <img alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <img alt="github actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
