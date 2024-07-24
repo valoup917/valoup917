@@ -29,8 +29,8 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
   <img alt="c" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" />
   <img alt="flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white" />
@@ -66,6 +66,28 @@
   <img alt="" src="" />
   <img alt="" src="" />
 </p>
+<br>
+<br>
+<br>
+
+<h2>🎓 &nbsp; Mes Certifications</h2>
+<br>
+
+<div align="center">
+  <a href="https://learn.microsoft.com/fr-fr/credentials/certifications/azure-administrator/?practice-assessment-type=certification">
+    <img alt="az-104" src="https://training.cellenza.com/wp-content/uploads/2021/07/AZ104.png" width="140" align="center" />
+  </a>
+  <h2 align="center">
+    AZ-104
+  </h2>
+</div>
+<br>
+<div align="center">
+  <a href="https://learn.microsoft.com/fr-fr/users/valoup-4373/">
+  Mon profil Microsoft Azure
+  </a>
+</div>
+
 <br>
 <br>
 <br>
@@ -125,7 +147,7 @@ Ce projet a été développé dans le cadre d'un sujet Epitech en moins d'une se
  <a href="https://github.com/valoup917/meet-your-soul">Meet your soul</a> est une Progressive Web Application (PWA) dédiée aux musiciens, permettant de créer des groupes en fonction de leur instrument et de leur niveau. Cette application facilite la rencontre et la collaboration entre musiciens, simplifiant ainsi la création de synergies musicales.
     </br>
     </br>
-Développé dans le cadre de mon cursus à Epitech en quelques jours, ce projet met en avant les avantages des PWA : rapidité, réactivité, et accessibilité hors ligne. Utilisant des technologies modernes comme les service workers pour le caching et la gestion des requêtes de données, l’application offre une performance améliorée même en conditions de réseau limité. La sécurité est également renforcée via le protocole HTTPS.
+Développé dans le cadre de mon cursus à Epitech en quelques jours, ce projet met en avant les avantages des PWA : rapidité, réactivité, et accessibilité hors ligne. Utilisant des technologies modernes comme les service workers pour le caching et la gestion des requêtes de données, l’application offre une performance améliorée même en conditions de réseau limité et coupé.
       </p>
 <br>
       <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
