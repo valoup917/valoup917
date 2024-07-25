@@ -235,7 +235,7 @@ Nous sommes parti sur une achitecture en microservice mutli technologique afin d
   <dd>
     <dl>
       <p>
-Notre équipe, engagée dans la promotion d'un avenir décentralisé, a développé une application mobile pour révolutionner le processus électoral en France: <a href="https://github.com/valoup917/Le-Monde3.0"> vote.gouv</a>. Utilisant Flutter et France Connect pour l'identification sécurisée, notre application permet aux citoyens de consulter les programmes des candidats, de voter de manière anonyme et de vérifier les résultats, le tout grâce à l'utilisation de la blockchain pour garantir la transparence et la sécurité des élections.
+Notre équipe, engagée dans la promotion d'un avenir décentralisé, a développé une application mobile pour révolutionner le processus électoral en France: <a href="https://github.com/valoup917/Vote.gouv"> vote.gouv</a>. Utilisant Flutter et France Connect pour l'identification sécurisée, notre application permet aux citoyens de consulter les programmes des candidats, de voter de manière anonyme et de vérifier les résultats, le tout grâce à l'utilisation de la blockchain pour garantir la transparence et la sécurité des élections.
 
 L'authentification est renforcée par une vérification biométrique et l'intégration de MetaMask pour interagir avec les smart contracts. Notre solution, entièrement décentralisée, protège la confidentialité des utilisateurs et assure l'intégrité du processus électoral. Consultez notre vidéo explicative pour une meilleure compréhension du fonctionnement de l'application.
      </p>
