@@ -10,7 +10,7 @@
 <br>
 
 <div align="center">
-  <p>Bienvenu sur mon github ! <br> Moi c'est valentin, développeur fullstack de <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Paris, France</b>en master I à     Epitech Paris et en CDI à FWA où j'ai l'occasion de mettre mes competences dans le web
+  <p>Bienvenu sur mon github ! <br> Moi c'est valentin, développeur fullstack de <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Paris, France</b> en master I à     Epitech Paris et en CDI à FWA où j'ai l'occasion de mettre mes competences dans le web
   </p>
   <img alt="vue js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
   <img alt="c#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -74,11 +74,18 @@
 <br>
 
 <div align="center">
-  <a href="https://learn.microsoft.com/fr-fr/credentials/certifications/azure-administrator/?practice-assessment-type=certification">
+  <a href="https://learn.microsoft.com/fr-fr/credentials/certifications/azure-administrator/">
     <img alt="az-104" src="https://training.cellenza.com/wp-content/uploads/2021/07/AZ104.png" width="140" align="center" />
   </a>
   <h2 align="center">
     AZ-104
+  </h2>
+<br>
+  <a href="https://learn.microsoft.com/fr-fr/credentials/certifications/devops-engineer/">
+    <img alt="az-400" src="https://training.cellenza.com/wp-content/uploads/2021/07/AZ400.png" width="140" align="center" />
+  </a>
+  <h2 align="center">
+    AZ-400
   </h2>
 </div>
 <br>
