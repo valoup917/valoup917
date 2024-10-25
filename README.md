@@ -72,6 +72,8 @@
 <br>
 <br>
 
+<br>
+
 <h2>🎓 &nbsp; Mes Certifications</h2>
 <br>
 
@@ -255,6 +257,14 @@ L'authentification est renforcée par une vérification biométrique et l'intég
     </dl>
   </dd>
 </dl>
+
+---
+
+<h2>📄 &nbsp; Mon CV</h2>
+  <div align="center">
+    <img alt="cv" src="./Valentin_archi_fullstack_cv_en.png" width="700" align="center" />
+  </div>
+<br>
 
 ---
 
